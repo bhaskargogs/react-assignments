@@ -2,12 +2,15 @@
 
 # dependencies
 basic-assignment/node_modules/
+list-assignment/node_modules/
 
 # testing
 basic-assignment/coverage
+list-assignment/coverage
 
 # production
 basic-assignment/build
+list-assignment/build
 
 # misc
 basic-assignment/.DS_Store
@@ -19,3 +22,13 @@ basic-assignment/.env.production.local
 basic-assignment/npm-debug.log*
 basic-assignment/yarn-debug.log*
 basic-assignment/yarn-error.log*
+
+list-assignment/.DS_Store
+list-assignment/.env.local
+list-assignment/.env.development.local
+list-assignment/.env.test.local
+list-assignment/.env.production.local
+
+list-assignment/npm-debug.log*
+list-assignment/yarn-debug.log*
+list-assignment/yarn-error.log*
